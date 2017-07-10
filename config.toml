@@ -20,13 +20,13 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Jianqiang Ma"
-  role = "Researcher/PhD candidate"
+  role = "Researcher"
   organization = "University of Tübingen, SFB-833 & Department of Linguistics"
   avatar = "portrait.jpg"
   email = "jianqiang.ma@uni-tuebingen.de"
   address = "Wilhemstr. 19, Tübingen, 72074, Germany"
   office_hours = "email for appointment"
-  phone = "+49 7071 29 73953"
+  #phone = "+49 7071 29 73953"
   #skype = "echo123"
   telegram = ""
 

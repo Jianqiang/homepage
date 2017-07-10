@@ -11,6 +11,25 @@
     <atom:link href="/~jma/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PP Attachment: Where do We Stand?</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/pp/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/pp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All of Recurrent Neural Networks</title>
+      <link>http://www.sfs.uni-tuebingen.de/~jma/post/all_of_rnn/</link>
+      <pubDate>Fri, 27 Jan 2017 10:25:17 +0100</pubDate>
+      
+      <guid>http://www.sfs.uni-tuebingen.de/~jma/post/all_of_rnn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://medium.com/@jianqiangma/all-about-recurrent-neural-networks-9e5ae2936f6e&#34; target=&#34;_blank&#34;&gt;view on medium&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Extracting a PP Attachment Data Set from a German Dependency Treebank Using Topological Fields</title>
       <link>http://www.sfs.uni-tuebingen.de/~jma/publication/pp-extraction/</link>
       <pubDate>Wed, 25 Jan 2017 14:55:07 +0100</pubDate>
@@ -124,24 +143,6 @@
       <pubDate>Thu, 06 Aug 2009 16:17:24 +0100</pubDate>
       
       <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/error-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unsupervised Syntax Learning with Categorial Grammars using Inference Rules</title>
-      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/ccg09-b/</link>
-      <pubDate>Mon, 20 Jul 2009 16:22:36 +0100</pubDate>
-      
-      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/ccg09-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Inference-Rules based Categorial Grammar Learner for Simulating Language Acquisition</title>
-      <link>http://www.sfs.uni-tuebingen.de/~jma/publication/ccg09/</link>
-      <pubDate>Mon, 18 May 2009 16:19:55 +0100</pubDate>
-      
-      <guid>http://www.sfs.uni-tuebingen.de/~jma/publication/ccg09/</guid>
       <description></description>
     </item>
     
